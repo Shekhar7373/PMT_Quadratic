@@ -9,7 +9,6 @@ void displayResult(double discriminant, double a, double b, double root1, double
         printf("root1 = %.2lf+%.2lfi and root2 = %.2lf-%.2fi\n", realPart, imagPart, realPart, imagPart);
     }
 }
-
 }
 int main() {
    double a, b, c, discriminant, root1, root2, realPart, imagPart;
